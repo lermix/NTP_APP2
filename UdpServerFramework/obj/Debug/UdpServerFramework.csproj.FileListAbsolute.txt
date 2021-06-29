@@ -1,0 +1,78 @@
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\UdpServerFramework.exe.config
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\UdpServerFramework.exe
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\UdpServerFramework.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\JMessage.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\sharedObject_dll.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\JMessage.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\sharedObject_dll.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\obj\Debug\UdpServerFramework.csprojAssemblyReference.cache
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\obj\Debug\UdpServerFramework.csproj.CopyComplete
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\obj\Debug\UdpServerFramework.exe
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\obj\Debug\UdpServerFramework.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Google.Protobuf.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\MySql.Data.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Renci.SshNet.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\System.Buffers.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\System.Memory.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Zstandard.Net.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Google.Protobuf.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\MySql.Data.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\Renci.SshNet.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\System.Buffers.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\System.Memory.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\servers\UdpServerFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\UdpServerFramework.exe.config
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\UdpServerFramework.exe
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\UdpServerFramework.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Google.Protobuf.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Models.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\MySql.Data.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Renci.SshNet.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\System.Buffers.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\System.Memory.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Zstandard.Net.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Models.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Google.Protobuf.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\JMessage.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\MySql.Data.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\Renci.SshNet.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\sharedObject_dll.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\System.Buffers.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\System.Memory.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\obj\Debug\UdpServerFramework.csprojAssemblyReference.cache
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\obj\Debug\UdpServerFramework.csproj.CopyComplete
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\obj\Debug\UdpServerFramework.exe
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\obj\Debug\UdpServerFramework.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\DatabaseManager.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\UdpServerFramework\bin\Debug\DatabaseManager.pdb

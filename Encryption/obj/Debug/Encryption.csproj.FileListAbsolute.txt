@@ -1,0 +1,5 @@
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\Encryption\bin\Debug\Encryption.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\Encryption\obj\Debug\Encryption.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\Encryption\obj\Debug\Encryption.pdb

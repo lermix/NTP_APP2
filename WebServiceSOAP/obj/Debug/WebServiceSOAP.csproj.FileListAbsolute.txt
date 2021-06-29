@@ -1,0 +1,167 @@
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\WebServiceSOAP.dll.config
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\WebServiceSOAP.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\WebServiceSOAP.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\csc.exe
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\csc.exe.config
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\csc.rsp
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\csi.exe
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\csi.exe.config
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\csi.rsp
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.AppContext.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Console.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Net.Http.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\vbc.exe
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\vbc.exe.config
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\vbc.rsp
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\obj\Debug\WebServiceSOAP.csprojAssemblyReference.cache
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\obj\Debug\WebServiceSOAP.csproj.CopyComplete
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\obj\Debug\WebServiceSOAP.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\obj\Debug\WebServiceSOAP.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\BouncyCastle.Crypto.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\Google.Protobuf.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\K4os.Compression.LZ4.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\K4os.Hash.xxHash.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\MySql.Data.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\Renci.SshNet.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\sharedObject_dll.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\System.Buffers.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\System.Memory.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\System.Numerics.Vectors.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\Ubiety.Dns.Core.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\Zstandard.Net.dll
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\Google.Protobuf.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\Google.Protobuf.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\K4os.Compression.LZ4.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\K4os.Hash.xxHash.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\MySql.Data.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\Renci.SshNet.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\sharedObject_dll.pdb
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\System.Buffers.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\System.Memory.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\System.Numerics.Vectors.xml
+C:\Users\Alen\Desktop\faks\napredne tehnike programiranja\WebService\WebServiceSOAP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\obj\Debug\WebServiceSOAP.csprojAssemblyReference.cache
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\obj\Debug\WebServiceSOAP.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\obj\Debug\WebServiceSOAP.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\WebServiceSOAP.dll.config
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\WebServiceSOAP.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\WebServiceSOAP.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\csc.exe
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\csc.exe.config
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\csc.rsp
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\csi.exe
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\csi.exe.config
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\csi.rsp
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.AppContext.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Console.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Net.Http.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\vbc.exe
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\vbc.exe.config
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\vbc.rsp
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\BouncyCastle.Crypto.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\Google.Protobuf.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\K4os.Compression.LZ4.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\K4os.Hash.xxHash.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\MySql.Data.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\Renci.SshNet.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\System.Buffers.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\System.Memory.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\System.Numerics.Vectors.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\Ubiety.Dns.Core.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\Zstandard.Net.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\Google.Protobuf.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\Google.Protobuf.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\K4os.Compression.LZ4.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\K4os.Hash.xxHash.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\MySql.Data.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\Renci.SshNet.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\sharedObject_dll.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\System.Buffers.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\System.Memory.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\System.Numerics.Vectors.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\WebServiceSOAP\obj\Debug\WebServiceSOAP.csproj.CopyComplete
