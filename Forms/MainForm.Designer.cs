@@ -33,6 +33,10 @@
             this.btnUsers = new System.Windows.Forms.Button();
             this.btnProducts = new System.Windows.Forms.Button();
             this.btnSell = new System.Windows.Forms.Button();
+            this.chBoxProducts = new System.Windows.Forms.CheckBox();
+            this.chBoxUsers = new System.Windows.Forms.CheckBox();
+            this.btnRefresh = new System.Windows.Forms.Button();
+            this.chBoxSettings = new System.Windows.Forms.CheckBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -92,17 +96,64 @@
             this.btnSell.UseVisualStyleBackColor = true;
             this.btnSell.Click += new System.EventHandler(this.btnSell_Click);
             // 
+            // chBoxProducts
+            // 
+            this.chBoxProducts.AutoSize = true;
+            this.chBoxProducts.Enabled = false;
+            this.chBoxProducts.Location = new System.Drawing.Point(427, 16);
+            this.chBoxProducts.Name = "chBoxProducts";
+            this.chBoxProducts.Size = new System.Drawing.Size(92, 21);
+            this.chBoxProducts.TabIndex = 1;
+            this.chBoxProducts.Text = "Proizvodi ";
+            this.chBoxProducts.UseVisualStyleBackColor = true;
+            // 
+            // chBoxUsers
+            // 
+            this.chBoxUsers.AutoSize = true;
+            this.chBoxUsers.Enabled = false;
+            this.chBoxUsers.Location = new System.Drawing.Point(427, 43);
+            this.chBoxUsers.Name = "chBoxUsers";
+            this.chBoxUsers.Size = new System.Drawing.Size(83, 21);
+            this.chBoxUsers.TabIndex = 2;
+            this.chBoxUsers.Text = "Korisnici";
+            this.chBoxUsers.UseVisualStyleBackColor = true;
+            // 
+            // btnRefresh
+            // 
+            this.btnRefresh.Location = new System.Drawing.Point(427, 150);
+            this.btnRefresh.Name = "btnRefresh";
+            this.btnRefresh.Size = new System.Drawing.Size(75, 23);
+            this.btnRefresh.TabIndex = 3;
+            this.btnRefresh.Text = "Osvježi";
+            this.btnRefresh.UseVisualStyleBackColor = true;
+            this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
+            // 
+            // chBoxSettings
+            // 
+            this.chBoxSettings.AutoSize = true;
+            this.chBoxSettings.Enabled = false;
+            this.chBoxSettings.Location = new System.Drawing.Point(427, 70);
+            this.chBoxSettings.Name = "chBoxSettings";
+            this.chBoxSettings.Size = new System.Drawing.Size(88, 21);
+            this.chBoxSettings.TabIndex = 4;
+            this.chBoxSettings.Text = "Postavke";
+            this.chBoxSettings.UseVisualStyleBackColor = true;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.chBoxSettings);
+            this.Controls.Add(this.btnRefresh);
+            this.Controls.Add(this.chBoxUsers);
+            this.Controls.Add(this.chBoxProducts);
             this.Controls.Add(this.panel1);
             this.Name = "MainForm";
             this.Text = "MainForm";
-            this.Load += new System.EventHandler(this.MainForm_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -113,5 +164,9 @@
         private System.Windows.Forms.Button btnProducts;
         private System.Windows.Forms.Button btnProperties;
         private System.Windows.Forms.Button btnUsers;
+        private System.Windows.Forms.CheckBox chBoxProducts;
+        private System.Windows.Forms.CheckBox chBoxUsers;
+        private System.Windows.Forms.Button btnRefresh;
+        private System.Windows.Forms.CheckBox chBoxSettings;
     }
 }

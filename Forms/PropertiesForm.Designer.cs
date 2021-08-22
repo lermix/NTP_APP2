@@ -28,31 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.cmbDatabaseType = new System.Windows.Forms.ComboBox();
             this.lbl = new System.Windows.Forms.Label();
             this.cmbServerType = new System.Windows.Forms.ComboBox();
             this.btnSave = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.cmbEncryption = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 12);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(68, 17);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Tip Baze:";
-            // 
-            // cmbDatabaseType
-            // 
-            this.cmbDatabaseType.FormattingEnabled = true;
-            this.cmbDatabaseType.Location = new System.Drawing.Point(122, 12);
-            this.cmbDatabaseType.Name = "cmbDatabaseType";
-            this.cmbDatabaseType.Size = new System.Drawing.Size(156, 24);
-            this.cmbDatabaseType.TabIndex = 1;
             // 
             // lbl
             // 
@@ -108,8 +89,6 @@
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.cmbServerType);
             this.Controls.Add(this.lbl);
-            this.Controls.Add(this.cmbDatabaseType);
-            this.Controls.Add(this.label1);
             this.Name = "PropertiesForm";
             this.Text = "PropertiesForm";
             this.Load += new System.EventHandler(this.PropertiesForm_Load);
@@ -119,9 +98,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox cmbDatabaseType;
         private System.Windows.Forms.Label lbl;
         private System.Windows.Forms.ComboBox cmbServerType;
         private System.Windows.Forms.Button btnSave;

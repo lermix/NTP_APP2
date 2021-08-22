@@ -45,3 +45,4 @@ C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.Forms.UsersForm.resources
 C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\bin\Debug\Encryption.dll
 C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\bin\Debug\Encryption.pdb
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.Forms.LoginForm.resources

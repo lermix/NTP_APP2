@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Bill Id="00000000-0000-0000-0000-000000000000" Username="ivo" TotalPrice="11" Date="2021_08_22_04_24" />
+  <Bill Id="00000000-0000-0000-0000-000000000000" Username="ivo" TotalPrice="320" Date="2021_08_22_05_42" />
+</Root>

@@ -70,7 +70,7 @@ namespace NTP_Ivo_Ojvan.Tools
             //Save the document
             doc.Save(location);
             //Close the document
-            doc.Close(true);
+            doc.Close(true);            
         }       
 
     

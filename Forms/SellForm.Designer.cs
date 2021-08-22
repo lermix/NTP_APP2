@@ -30,14 +30,16 @@
         {
             this.dgv = new System.Windows.Forms.DataGridView();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.lblTotal = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.btnComplete = new System.Windows.Forms.Button();
             this.listBoxProduct = new System.Windows.Forms.ListBox();
             this.tboxSearch = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.btnAddToBill = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.lblTotal = new System.Windows.Forms.Label();
+            this.btnAsc = new System.Windows.Forms.Button();
+            this.btnDesc = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -59,6 +61,8 @@
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.btnDesc);
+            this.panel1.Controls.Add(this.btnAsc);
             this.panel1.Controls.Add(this.lblTotal);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.btnComplete);
@@ -72,6 +76,24 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(392, 604);
             this.panel1.TabIndex = 1;
+            // 
+            // lblTotal
+            // 
+            this.lblTotal.AutoSize = true;
+            this.lblTotal.Location = new System.Drawing.Point(97, 574);
+            this.lblTotal.Name = "lblTotal";
+            this.lblTotal.Size = new System.Drawing.Size(16, 17);
+            this.lblTotal.TabIndex = 9;
+            this.lblTotal.Text = "0";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(20, 574);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(71, 17);
+            this.label3.TabIndex = 8;
+            this.label3.Text = "UKUPNO:";
             // 
             // btnComplete
             // 
@@ -128,23 +150,25 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Proizvod:";
             // 
-            // label3
+            // btnAsc
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(20, 574);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(71, 17);
-            this.label3.TabIndex = 8;
-            this.label3.Text = "UKUPNO:";
+            this.btnAsc.Location = new System.Drawing.Point(23, 122);
+            this.btnAsc.Name = "btnAsc";
+            this.btnAsc.Size = new System.Drawing.Size(75, 23);
+            this.btnAsc.TabIndex = 10;
+            this.btnAsc.Text = "a-ž";
+            this.btnAsc.UseVisualStyleBackColor = true;
+            this.btnAsc.Click += new System.EventHandler(this.btnAsc_Click);
             // 
-            // lblTotal
+            // btnDesc
             // 
-            this.lblTotal.AutoSize = true;
-            this.lblTotal.Location = new System.Drawing.Point(97, 574);
-            this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(16, 17);
-            this.lblTotal.TabIndex = 9;
-            this.lblTotal.Text = "0";
+            this.btnDesc.Location = new System.Drawing.Point(23, 151);
+            this.btnDesc.Name = "btnDesc";
+            this.btnDesc.Size = new System.Drawing.Size(75, 23);
+            this.btnDesc.TabIndex = 11;
+            this.btnDesc.Text = "ž-a";
+            this.btnDesc.UseVisualStyleBackColor = true;
+            this.btnDesc.Click += new System.EventHandler(this.btnDesc_Click);
             // 
             // SellForm
             // 
@@ -155,7 +179,6 @@
             this.Controls.Add(this.dgv);
             this.Name = "SellForm";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -175,6 +198,8 @@
         private System.Windows.Forms.Button btnComplete;
         private System.Windows.Forms.Label lblTotal;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnDesc;
+        private System.Windows.Forms.Button btnAsc;
     }
 }
 

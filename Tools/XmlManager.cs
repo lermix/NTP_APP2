@@ -19,7 +19,7 @@ namespace NTP_Ivo_Ojvan.Tools
     /// </summary>
     public static class XmlManager
     {
-        private static string AllProductsXmlLoaction = @"../../Data/AllProductsXML.xml";
+        private static string AllProductsXmlLoaction = @"../../Data/bills.xml";
 
         private static XDocument AllProductsXml;  
 

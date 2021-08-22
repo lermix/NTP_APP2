@@ -10,6 +10,7 @@ namespace NTP_Ivo_Ojvan.Models
 {
     [Serializable()]
     [XmlRoot("Product")]
+    [XmlType("Product")]
     public class Product
     {
         [XmlAttribute("id")]

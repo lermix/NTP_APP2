@@ -15,9 +15,12 @@ namespace NTP_Ivo_Ojvan.Forms
 {
     public partial class UsersForm : Form
     {
-        public UsersForm()
+        List<User> users;
+
+        public UsersForm(List<User> users)
         {
             InitializeComponent();
+            this.users = users;
         }
 
         private void btnGetFromDatabase_Click(object sender, EventArgs e)
@@ -27,23 +30,6 @@ namespace NTP_Ivo_Ojvan.Forms
             listBoxUsers.DisplayMember = "username";
             btnDelete.Visible = true;
             btnUpdate.Visible = true;
-            List<User> users = new List<User>();
-            foreach (User item in Messanger.select<User>(Models.Enums.MessageObjectType.User).ToArray())
-            {
-                User temp = item;
-                switch (AppSettings.encryption)
-                {
-                    case Models.Enums.Encryption.CES:
-                        temp.password = CES.Decryption(temp.password);
-                        break;
-                    case Models.Enums.Encryption.AES:
-                        temp.password = AES.Decrypt(temp.password);
-                        break;
-                    default:
-                        break;
-                }
-                users.Add(temp);
-            }
             listBoxUsers.Items.AddRange(users.ToArray());
         }
 

@@ -25,8 +25,6 @@ namespace NTP_Ivo_Ojvan.Forms
         {
             iniFilesManager = new IniFilesManager(AppSettings.DEFAULT_SETTINGS_PATH);
 
-            cmbDatabaseType.Items.AddRange(Enum.GetValues(typeof(DatabaseType)).Cast<Enum>().ToArray());
-            cmbDatabaseType.SelectedItem = AppSettings.databaseType;
             cmbServerType.Items.AddRange(Enum.GetValues(typeof(ServerType)).Cast<Enum>().ToArray());
             cmbServerType.SelectedItem = AppSettings.serverType;
             cmbEncryption.Items.AddRange(Enum.GetValues(typeof(Encryption)).Cast<Enum>().ToArray());
@@ -35,12 +33,10 @@ namespace NTP_Ivo_Ojvan.Forms
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            iniFilesManager.Write(AppSettings.DATABASE_TYPE, cmbDatabaseType.SelectedItem.ToString());
             iniFilesManager.Write(AppSettings.SERVER_TYPE, cmbServerType.SelectedItem.ToString());
             iniFilesManager.Write(AppSettings.ENCRYPTION_TYPE, cmbEncryption.SelectedItem.ToString());
 
 
-            AppSettings.databaseType =  (DatabaseType) Enum.Parse(typeof(DatabaseType) ,cmbDatabaseType.SelectedItem.ToString());
             AppSettings.serverType = (ServerType) Enum.Parse(typeof(ServerType),cmbServerType.SelectedItem.ToString());
             AppSettings.encryption = (Encryption)Enum.Parse(typeof(Encryption), cmbEncryption.SelectedItem.ToString());
 
