@@ -46,3 +46,11 @@ C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.Forms.UsersForm
 C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\bin\Debug\Encryption.dll
 C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\bin\Debug\Encryption.pdb
 C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.Forms.LoginForm.resources
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\bin\Debug\hr\NTP_Ivo_Ojvan.resources.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.Forms.PropertiesForm.hr.resources
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\hr\NTP_Ivo_Ojvan.resources.dll
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.SellForm.hr.resources
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.Forms.UsersForm.hr.resources
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.AddProductForm.hr.resources
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.Forms.LoginForm.hr.resources
+C:\Users\Alen\source\repos\NTP_Ivo_Ojvan\obj\Debug\NTP_Ivo_Ojvan.Forms.MainForm.hr.resources

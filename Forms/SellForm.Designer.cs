@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SellForm));
             this.dgv = new System.Windows.Forms.DataGridView();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnDesc = new System.Windows.Forms.Button();
+            this.btnAsc = new System.Windows.Forms.Button();
             this.lblTotal = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.btnComplete = new System.Windows.Forms.Button();
@@ -38,29 +41,24 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnAddToBill = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.btnAsc = new System.Windows.Forms.Button();
-            this.btnDesc = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // dgv
             // 
+            resources.ApplyResources(this.dgv, "dgv");
             this.dgv.AllowUserToAddRows = false;
             this.dgv.AllowUserToDeleteRows = false;
             this.dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgv.Dock = System.Windows.Forms.DockStyle.Left;
-            this.dgv.Location = new System.Drawing.Point(0, 0);
             this.dgv.Name = "dgv";
             this.dgv.ReadOnly = true;
-            this.dgv.RowHeadersWidth = 51;
             this.dgv.RowTemplate.Height = 24;
-            this.dgv.Size = new System.Drawing.Size(697, 604);
-            this.dgv.TabIndex = 0;
             this.dgv.DataBindingComplete += new System.Windows.Forms.DataGridViewBindingCompleteEventHandler(this.dgv_DataBindingComplete);
             // 
             // panel1
             // 
+            resources.ApplyResources(this.panel1, "panel1");
             this.panel1.Controls.Add(this.btnDesc);
             this.panel1.Controls.Add(this.btnAsc);
             this.panel1.Controls.Add(this.lblTotal);
@@ -71,114 +69,75 @@
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.btnAddToBill);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel1.Location = new System.Drawing.Point(703, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(392, 604);
-            this.panel1.TabIndex = 1;
+            // 
+            // btnDesc
+            // 
+            resources.ApplyResources(this.btnDesc, "btnDesc");
+            this.btnDesc.Name = "btnDesc";
+            this.btnDesc.UseVisualStyleBackColor = true;
+            this.btnDesc.Click += new System.EventHandler(this.btnDesc_Click);
+            // 
+            // btnAsc
+            // 
+            resources.ApplyResources(this.btnAsc, "btnAsc");
+            this.btnAsc.Name = "btnAsc";
+            this.btnAsc.UseVisualStyleBackColor = true;
+            this.btnAsc.Click += new System.EventHandler(this.btnAsc_Click);
             // 
             // lblTotal
             // 
-            this.lblTotal.AutoSize = true;
-            this.lblTotal.Location = new System.Drawing.Point(97, 574);
+            resources.ApplyResources(this.lblTotal, "lblTotal");
             this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(16, 17);
-            this.lblTotal.TabIndex = 9;
-            this.lblTotal.Text = "0";
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(20, 574);
+            resources.ApplyResources(this.label3, "label3");
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(71, 17);
-            this.label3.TabIndex = 8;
-            this.label3.Text = "UKUPNO:";
             // 
             // btnComplete
             // 
-            this.btnComplete.Location = new System.Drawing.Point(269, 545);
+            resources.ApplyResources(this.btnComplete, "btnComplete");
             this.btnComplete.Name = "btnComplete";
-            this.btnComplete.Size = new System.Drawing.Size(123, 47);
-            this.btnComplete.TabIndex = 7;
-            this.btnComplete.Text = "Završi račun";
             this.btnComplete.UseVisualStyleBackColor = true;
             this.btnComplete.Click += new System.EventHandler(this.btnComplete_Click);
             // 
             // listBoxProduct
             // 
+            resources.ApplyResources(this.listBoxProduct, "listBoxProduct");
             this.listBoxProduct.FormattingEnabled = true;
-            this.listBoxProduct.ItemHeight = 16;
-            this.listBoxProduct.Location = new System.Drawing.Point(111, 77);
             this.listBoxProduct.Name = "listBoxProduct";
-            this.listBoxProduct.Size = new System.Drawing.Size(233, 356);
-            this.listBoxProduct.TabIndex = 6;
             // 
             // tboxSearch
             // 
-            this.tboxSearch.Location = new System.Drawing.Point(111, 28);
+            resources.ApplyResources(this.tboxSearch, "tboxSearch");
             this.tboxSearch.Name = "tboxSearch";
-            this.tboxSearch.Size = new System.Drawing.Size(233, 22);
-            this.tboxSearch.TabIndex = 5;
             this.tboxSearch.TextChanged += new System.EventHandler(this.tboxSearch_TextChanged);
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(38, 28);
+            resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 17);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Pretraži:";
             // 
             // btnAddToBill
             // 
-            this.btnAddToBill.Location = new System.Drawing.Point(221, 439);
+            resources.ApplyResources(this.btnAddToBill, "btnAddToBill");
             this.btnAddToBill.Name = "btnAddToBill";
-            this.btnAddToBill.Size = new System.Drawing.Size(123, 47);
-            this.btnAddToBill.TabIndex = 3;
-            this.btnAddToBill.Text = "Dodaj na račun";
             this.btnAddToBill.UseVisualStyleBackColor = true;
             this.btnAddToBill.Click += new System.EventHandler(this.btnAddToBill_Click);
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(38, 77);
+            resources.ApplyResources(this.label1, "label1");
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(67, 17);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Proizvod:";
-            // 
-            // btnAsc
-            // 
-            this.btnAsc.Location = new System.Drawing.Point(23, 122);
-            this.btnAsc.Name = "btnAsc";
-            this.btnAsc.Size = new System.Drawing.Size(75, 23);
-            this.btnAsc.TabIndex = 10;
-            this.btnAsc.Text = "a-ž";
-            this.btnAsc.UseVisualStyleBackColor = true;
-            this.btnAsc.Click += new System.EventHandler(this.btnAsc_Click);
-            // 
-            // btnDesc
-            // 
-            this.btnDesc.Location = new System.Drawing.Point(23, 151);
-            this.btnDesc.Name = "btnDesc";
-            this.btnDesc.Size = new System.Drawing.Size(75, 23);
-            this.btnDesc.TabIndex = 11;
-            this.btnDesc.Text = "ž-a";
-            this.btnDesc.UseVisualStyleBackColor = true;
-            this.btnDesc.Click += new System.EventHandler(this.btnDesc_Click);
             // 
             // SellForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1095, 604);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.dgv);
             this.Name = "SellForm";
-            this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

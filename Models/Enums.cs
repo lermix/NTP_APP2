@@ -49,5 +49,11 @@ namespace NTP_Ivo_Ojvan.Models
             CES,
             AES
         }
+
+        public enum Languages
+        {
+            Hrvatski,
+            English
+        }
     }
 }

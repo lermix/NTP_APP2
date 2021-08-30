@@ -1,4 +1,5 @@
-﻿using NTP_Ivo_ojvan.Clients;
+﻿using Newtonsoft.Json;
+using NTP_Ivo_ojvan.Clients;
 using NTP_Ivo_Ojvan.Clients;
 using NTP_Ivo_Ojvan.Models;
 using NTP_Ivo_Ojvan.Tools;
@@ -143,6 +144,12 @@ namespace NTP_Ivo_Ojvan
             btnDelete.Invoke((MethodInvoker) delegate {
                 btnDelete.Visible = true;
             });
+        }
+
+        private void btnToSale_Click(object sender, EventArgs e)
+        {
+            if (formNotFilled()) return;
+            MyHttpClient.putProductToSale<Product>(JsonConvert.SerializeObject(getFormProduct()));
         }
     }
 }

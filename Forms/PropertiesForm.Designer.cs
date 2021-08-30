@@ -28,69 +28,68 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PropertiesForm));
             this.lbl = new System.Windows.Forms.Label();
             this.cmbServerType = new System.Windows.Forms.ComboBox();
             this.btnSave = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.cmbEncryption = new System.Windows.Forms.ComboBox();
+            this.cmbLanguage = new System.Windows.Forms.ComboBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lbl
             // 
-            this.lbl.AutoSize = true;
-            this.lbl.Location = new System.Drawing.Point(12, 54);
+            resources.ApplyResources(this.lbl, "lbl");
             this.lbl.Name = "lbl";
-            this.lbl.Size = new System.Drawing.Size(84, 17);
-            this.lbl.TabIndex = 2;
-            this.lbl.Text = "Tip servera:";
             // 
             // cmbServerType
             // 
+            resources.ApplyResources(this.cmbServerType, "cmbServerType");
             this.cmbServerType.FormattingEnabled = true;
-            this.cmbServerType.Location = new System.Drawing.Point(122, 51);
             this.cmbServerType.Name = "cmbServerType";
-            this.cmbServerType.Size = new System.Drawing.Size(156, 24);
-            this.cmbServerType.TabIndex = 3;
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(203, 142);
+            resources.ApplyResources(this.btnSave, "btnSave");
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(75, 23);
-            this.btnSave.TabIndex = 7;
-            this.btnSave.Text = "Spremi";
             this.btnSave.UseVisualStyleBackColor = true;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 90);
+            resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(73, 17);
-            this.label2.TabIndex = 8;
-            this.label2.Text = "Enkripcija:";
             // 
             // cmbEncryption
             // 
+            resources.ApplyResources(this.cmbEncryption, "cmbEncryption");
             this.cmbEncryption.FormattingEnabled = true;
-            this.cmbEncryption.Location = new System.Drawing.Point(122, 87);
             this.cmbEncryption.Name = "cmbEncryption";
-            this.cmbEncryption.Size = new System.Drawing.Size(156, 24);
-            this.cmbEncryption.TabIndex = 9;
+            // 
+            // cmbLanguage
+            // 
+            resources.ApplyResources(this.cmbLanguage, "cmbLanguage");
+            this.cmbLanguage.FormattingEnabled = true;
+            this.cmbLanguage.Name = "cmbLanguage";
+            // 
+            // label1
+            // 
+            resources.ApplyResources(this.label1, "label1");
+            this.label1.Name = "label1";
             // 
             // PropertiesForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(302, 200);
+            this.Controls.Add(this.cmbLanguage);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.cmbEncryption);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.cmbServerType);
             this.Controls.Add(this.lbl);
             this.Name = "PropertiesForm";
-            this.Text = "PropertiesForm";
             this.Load += new System.EventHandler(this.PropertiesForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -103,5 +102,7 @@
         private System.Windows.Forms.Button btnSave;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox cmbEncryption;
+        private System.Windows.Forms.ComboBox cmbLanguage;
+        private System.Windows.Forms.Label label1;
     }
 }

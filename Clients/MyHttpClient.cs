@@ -106,6 +106,20 @@ namespace NTP_Ivo_Ojvan.Clients
             return new List<T>();
         }
 
+        public static void putProductToSale<T>(string productJson)
+        {
+            HttpClient client = new HttpClient();
+            client.BaseAddress = new Uri("https://localhost:44332/");
+            // Add an Accept header for JSON format.    
+            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+            var buffer = System.Text.Encoding.UTF8.GetBytes(productJson);
+            var byteContent = new ByteArrayContent(buffer);
+            byteContent.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+
+            HttpResponseMessage response = client.PostAsync("Product/CurrentlyOnSale", byteContent).Result;  // Blocking call!    
+        }
+
         public static List<T> GetUsers<T>()
         {
             HttpClient client = new HttpClient();

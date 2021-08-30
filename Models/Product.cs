@@ -31,5 +31,10 @@ namespace NTP_Ivo_Ojvan.Models
             this.brand = brand;
             this.price = price;
         }
+
+        public override string ToString()
+        {
+            return name;
+        }
     }
 }

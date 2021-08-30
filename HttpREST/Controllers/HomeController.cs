@@ -10,7 +10,10 @@ namespace HttpREST.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+
+                ViewBag.Title = "Nothing on sale";
+            
+
 
             return View();
         }

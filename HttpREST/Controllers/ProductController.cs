@@ -35,5 +35,11 @@ namespace HttpREST.Controllers
             DatabaseManager.ProductManager.UpdateProduct(product);
             return JsonConvert.SerializeObject(new List<Product> { product });
         }
+
+        [HttpPost]
+        public void CurrentlyOnSale(Product product)
+        {
+            ProductHolder.product = product.name;
+        }
     }
 }
